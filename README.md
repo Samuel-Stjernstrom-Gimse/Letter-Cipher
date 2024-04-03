@@ -34,7 +34,7 @@ The `.prettierrc` file configures Prettier, a code formatter for maintaining con
 - **printWidth:** Specifies the maximum line length before wrapping.
 - **semi:** Omits semicolons at the end of statements.
 - **useTabs:** Indents with tabs instead of spaces.
-- **trailingComma:** Controls trailing commas in object literals and arrays.
+- **trailingComma:** Controls trailing commas in object literals and rowArrays.
 - **tabWidth:** Sets the number of spaces per tab.
 - **singleQuote:** Uses single quotes instead of double quotes for strings.
 - **htmlWhitespaceSensitivity:** Defines sensitivity to HTML whitespace (strict).
